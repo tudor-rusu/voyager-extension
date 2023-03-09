@@ -1,5 +1,5 @@
 {
-     "name": "monstrex/voyager-extension",
+     "name": "tudor-rusu/voyager-extension",
      "description": "Voyager Admin Panel Extension",
      "license": "MIT",
      "authors": [
@@ -7,10 +7,15 @@
          "name": "Yuriy Ovdeyev",
          "email": "fido6080net@gmail.com",
          "homepage": "http://ss-host.ru"
-       }
+       },
+        {
+            "name": "Tudor Rusu",
+            "email": "tudor.rusu@hotmail.com",
+            "homepage": "https://tudor.rusu.tech/"
+        }
      ],
      "minimum-stability": "dev",
-     "homepage": "https://github.com/monstrex/voyager-extension",
+     "homepage": "https://github.com/tudor-rusu/voyager-extension",
      "keywords": [
        "Laravel",
        "Voyager",
